@@ -23,11 +23,11 @@
     - https://business.facebook.com/wa/manage/home/?business_id=474213014590764&waba_id=101788886034499
 
     - lol_ranked1 - Portuguese (BR)
-![nome do print](/img/lo_ranked1.png)
+![nome do print](/img/lol_ranked1.png)
 
 
     - lol_ranked2 - Portuguese (BR)
-![nome do print](/img/lo_ranked2.png)
+![nome do print](/img/lol_ranked2.png)
 
 7 - Testar a aplicação no whatsapp
 
@@ -38,7 +38,9 @@ TOKEN_WHATS =  token gerado pela api do wahtsapp
 
 MY_TOKEN= token gerado pelo desenvolvedor 
 
-LOL_KEY= key da api do league of legends
+LOL_KEY= key da api do league of legends 
+
+    - https://developer.riotgames.com/
 
 LOL_URL= https://br1.api.riotgames.com
 
