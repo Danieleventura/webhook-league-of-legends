@@ -1,5 +1,7 @@
 # Webhook League of Legends
 
+<img src="/img/exemplo1.jpeg" width="400" height="790">  <img src="/img/exemplo1.jpeg" width="400" height="790">
+
 1 - Necessário hospedar o webhook 
 
     - Utilizei o glitch para hospedar - https://bot-league-of-legends.glitch.me
@@ -8,13 +10,13 @@
 
 2 - Criar o bot na api do whatsapp 
     
-    - https://developers.facebook.com/apps/
+    - https://developers.facebook.com/
 
 3 - Gerar um token
 
-4 - Informar o número para receber as mensagens e enviar
+4 - Informar o número para receber e enviar as mensagens
 
-5 - Configurar o weghook na seção Configuração (enviar o token gerado por o desenvolvedor)
+5 - Configurar o webhook na seção Configuração (enviar o token gerado por o desenvolvedor)
 
 ![nome do print](/img/webhook.png)
 
@@ -31,12 +33,18 @@
 
 7 - Testar a aplicação no whatsapp
 
+    - O bot ainda não inicia a conversa
 
-VARIAVEIS DE AMBIENTE
+    - Informar o nome do jogador na conversa do whatsapp do seu número teste
 
-TOKEN_WHATS =  token gerado pela api do wahtsapp
+    - O bot retornara as informações se encontrar o jogador
 
-MY_TOKEN= token gerado pelo desenvolvedor 
+
+# Variaveis de Ambiente (.env)
+
+TOKEN_WHATS=  token gerado pela api do wahtsapp
+
+MY_TOKEN= token gerado pelo desenvolvedor (será necessário informá-lo no passo 5)
 
 LOL_KEY= key da api do league of legends 
 
@@ -46,4 +54,4 @@ LOL_URL= https://br1.api.riotgames.com
 
 LOL_ICONS=  https://ddragon.leagueoflegends.com/cdn/12.17.1/img/profileicon
 
-LOL_MAESTERY= https://br1.api.riotgames.com/lol/champion-mastery/v4/champion-masteries/by-summoner# webhook-league-of-legends
+LOL_MAESTERY= https://br1.api.riotgames.com/lol/champion-mastery/v4/champion-masteries/by-summoner#
