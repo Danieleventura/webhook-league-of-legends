@@ -1,6 +1,6 @@
 # Webhook League of Legends
 
-<img src="/img/exemplo1.jpeg" width="400" height="790">  <img src="/img/exemplo1.jpeg" width="400" height="790">
+<img src="/img/exemplo1.jpeg" width="400" height="790">  <img src="/img/exemplo2.jpeg" width="400" height="790">
 
 1 - Necessário hospedar o webhook 
 
