@@ -4,7 +4,9 @@
 
 1 - Necessário hospedar o webhook 
 
-    - Utilizei o glitch para hospedar - https://bot-league-of-legends.glitch.me
+    - Utilizei o glitch para hospedar 
+    https://bot-league-of-legends.glitch.me
+    https://glitch.com/edit/#!/bot-league-of-legends?path=index.js%3A19%3A42
 
 ![nome do print](/img/glitch.png)
 
